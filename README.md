@@ -4,7 +4,7 @@ This is a simple implementation of the classic Snake game using the Pygame libra
 
 ## Setup
 
-To run the game, you need to have Python and Pygame installed. You can install Pygame using pip:
+To run the game, you need to have Python, random and Pygame installed. You can install Pygame using pip:
 
 ```
 pip install pygame
@@ -48,8 +48,12 @@ python snakexenia.py
 - Press `1` to start the game.
 - Press `2` to quit the game.
 
-![Main Menu](image.png)
+## Screenshots
 
-![Gameplay](image-2.png)
 
-![Game Over](image-1.png)
+![Main Menu](image.png "Main Menu")
+
+
+![Gameplay](image-2.png "Gameplay") 
+
+![Game Over](image-1.png "Game Over")
