@@ -8,6 +8,7 @@ To run the game, you need to have Python and Pygame installed. You can install P
 
 ```
 pip install pygame
+pip install random
 ```
 
 ## How to Play
@@ -38,7 +39,7 @@ The code consists of the following components:
 To run the game, execute the script in a Python environment with Pygame installed. Ensure that the necessary libraries are available before running the script.
 
 ```bash
-python your_script_name.py
+python snakexenia.py
 ```
 
 ## Controls
@@ -47,3 +48,8 @@ python your_script_name.py
 - Press `1` to start the game.
 - Press `2` to quit the game.
 
+![Main Menu](image.png)
+
+![Gameplay](image-2.png)
+
+![Game Over](image-1.png)
