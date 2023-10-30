@@ -8,6 +8,7 @@ To run the game, you need to have Python, random and Pygame installed. You can i
 
 ```
 pip install pygame
+
 pip install random
 ```
 
